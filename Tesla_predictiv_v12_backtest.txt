@@ -1,0 +1,38 @@
+Tesla Predictiv v12 - BACKTEST Loto 7/39
+Broj testiranih kola: 250
+Parametri sa klizaca: anchor=27.000 ratio=1.4620 cutoff=0.1170 n=3.54 branch=1.00 t3=0.00
+Prosek pogodaka: 1.2880
+Medijana pogodaka: 1.00
+Najbolji pogodak: 4
+
+Raspodela pogodaka:
+  0 pogodaka: 49
+  1 pogodaka: 105
+  2 pogodaka: 73
+  3 pogodaka: 21
+  4 pogodaka: 2
+  5 pogodaka: 0
+  6 pogodaka: 0
+  7 pogodaka: 0
+
+Zadnjih 20 testiranih kola:
+  kolo 4613: pogodaka=2  pred=05 x 09 y 27 z 36  stvarno=05 08 09 11 17 24 28
+  kolo 4614: pogodaka=0  pred=05 x 09 y 27 z 36  stvarno=10 14 19 24 29 31 37
+  kolo 4615: pogodaka=1  pred=05 x 09 y 27 z 36  stvarno=06 07 14 28 31 35 38
+  kolo 4616: pogodaka=0  pred=05 x 09 y 27 z 36  stvarno=04 07 11 20 33 34 39
+  kolo 4617: pogodaka=0  pred=05 x 09 y 27 z 36  stvarno=07 14 17 22 24 26 33
+  kolo 4618: pogodaka=2  pred=05 x 09 y 27 z 36  stvarno=04 09 14 16 19 24 32
+  kolo 4619: pogodaka=2  pred=05 x 09 y 27 z 36  stvarno=03 06 12 14 15 22 27
+  kolo 4620: pogodaka=1  pred=05 x 09 y 27 z 36  stvarno=01 03 07 17 24 25 32
+  kolo 4621: pogodaka=1  pred=05 x 09 y 27 z 36  stvarno=01 06 17 19 23 24 38
+  kolo 4622: pogodaka=2  pred=05 x 09 y 27 z 36  stvarno=02 06 14 26 34 36 38
+  kolo 4623: pogodaka=1  pred=05 x 09 y 27 z 36  stvarno=01 16 24 31 32 33 38
+  kolo 4624: pogodaka=2  pred=05 x 09 y 27 z 36  stvarno=01 03 05 11 20 27 30
+  kolo 4625: pogodaka=2  pred=05 x 09 y 27 z 36  stvarno=01 09 13 20 25 31 32
+  kolo 4626: pogodaka=1  pred=05 x 09 y 27 z 36  stvarno=02 03 04 06 16 17 20
+  kolo 4627: pogodaka=1  pred=05 x 09 y 27 z 36  stvarno=01 06 08 10 23 28 29
+  kolo 4628: pogodaka=1  pred=05 x 09 y 27 z 36  stvarno=02 11 18 23 26 31 34
+  kolo 4629: pogodaka=1  pred=05 x 09 y 27 z 36  stvarno=06 11 17 19 22 30 37
+  kolo 4630: pogodaka=1  pred=05 x 09 y 27 z 36  stvarno=13 14 15 17 20 34 36
+  kolo 4631: pogodaka=2  pred=05 x 09 y 27 z 36  stvarno=02 07 15 18 27 28 29
+  kolo 4632: pogodaka=0  pred=05 x 09 y 27 z 36  stvarno=03 07 08 11 19 21 25
