@@ -1,0 +1,17 @@
+Tesla Predictiv v11 - Loto 7/39 (koherencija + 7 harmonika + klizaci)
+CSV: /Users/4c/Desktop/GHQ/data/loto7hh_4632_k47.csv
+Izvlacenja: 4632 | Seed: 39
+Parametri sa klizaca: anchor=27.000 ratio=1.4620 cutoff=0.1170 n=3.54 branch=1.00 t3=0.00
+Harmonici: (3, 6, 9, 12, 15, 18, 21) | tezine: koh=0.6 freq=0.4
+
+Predikcija po pozicijama:
+  poz 1 (harmonik  3) -> 09  skor=0.559161  koh=0.1475  pojave=185  [top: 09(0.5592), 06(0.5452), 03(0.5144), 05(0.4471), 08(0.4387)]
+  poz 2 (harmonik  6) -> 05  skor=0.548719  koh=0.1528  pojave=354  [top: 09(0.9519), 05(0.5487), 04(0.4554), 08(0.3925), 06(0.3169)]
+  poz 3 (harmonik  9) ->  x  skor=0.698769  koh=0.5901  pojave=121  [top: 06(0.6988), 12(0.4707), 15(0.4086), 09(0.3947), 21(0.2889)]
+  poz 4 (harmonik 12) ->  y  skor=0.634546  koh=0.1595  pojave=290  [top: 18(0.6345), 09(0.5606), 27(0.4389), 11(0.2918), 16(0.2576)]
+  poz 5 (harmonik 15) -> 27  skor=0.448266  koh=0.0503  pojave=293  [top: 27(0.4483), 18(0.4052), 29(0.3373), 25(0.3272), 23(0.3181)]
+  poz 6 (harmonik 18) -> 36  skor=0.537948  koh=0.1340  pojave=278  [top: 36(0.5379), 27(0.4732), 33(0.4064), 30(0.3687), 24(0.2706)]
+  poz 7 (harmonik 21) -> z  skor=0.441594  koh=0.0532  pojave=205  [top: 36(0.6074), 32(0.4416), 31(0.3795), 39(0.3787), 27(0.2838)]
+
+FINALNA next kombinacija:
+  05 x 09 y 27 z 36
